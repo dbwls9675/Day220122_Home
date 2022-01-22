@@ -1,4 +1,4 @@
-package Chater15;
+package SocketCalc;
 //수식 계산 서버 - 클라이언트 만들기 실습
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
